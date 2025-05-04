@@ -8,4 +8,4 @@ Hi there! I'm Jia-Hong Lin (林嘉宏), a second-year Computer Science student a
 * Executive Secretary – NTHU Computer Science Student Association
 
 ## Contact Information
-If you'd like to get in touch or learn more, feel free to reach out. You can find additional contact information in my [blog](gaga5lala.dev).
+If you'd like to get in touch or learn more, feel free to reach out. You can find additional contact information in my [blog](https://gaga5lala.dev).
